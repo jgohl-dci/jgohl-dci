@@ -1,4 +1,4 @@
-## JGohl-DCI ![Smiley](images/smiley.png)
+## JGohl-DCI
 - Age: 39
 - Favourite Color: red
 - Languages: german, english
