@@ -1,4 +1,4 @@
-## JGohl-DCI
+## Johannes Gohl
 - Age: 39
 - Favourite Color: red
 - Languages: german, english
