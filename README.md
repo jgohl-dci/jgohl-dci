@@ -1,5 +1,4 @@
 ## Johannes Gohl
-![line2](/images/line2.png)
 - Photographer, Videoeditor and Programming trainee
 - Age: 39
 - Favourite Color: red
