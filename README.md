@@ -1,6 +1,4 @@
 ## Johannes Gohl
-
-Some Text about me, Some Text about me, Some Text about me, Some Text about me, Some Text about me, Some Text about me, Some Text about me, Some Text about me, Some Text about me, Some Text about me, Some Text about me, Some Text about me, Some Text about me, Some Text about me, Some Text about me, Some Text about me, Some Text about me, Some Text about me, Some Text about me, 
 ##
 - Photographer, Videoeditor and Programming trainee
 - Age: 39
